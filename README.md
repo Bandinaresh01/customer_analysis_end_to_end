@@ -1,4 +1,4 @@
-Customer Segmentation & Sales Analysis Project
+  Customer Segmentation & Sales Analysis Project
 Overview
 This comprehensive analysis project explores customer behavior and sales patterns using an online retail dataset. The project includes:
 
